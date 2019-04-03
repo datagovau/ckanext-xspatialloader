@@ -1,0 +1,4 @@
+messytables==0.15.2
+pdftables>=0.0.4  # optional messytables dep
+Unidecode==1.0.22
+GDAL>=2.4.0
